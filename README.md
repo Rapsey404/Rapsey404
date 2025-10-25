@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Über mich
 
-- 🧒 Ich bin **Luca**, 14 Jahre alt  
+- 🧒 Ich bin **Luca**
 - ⌨️ Seit **2 Jahren** aktiv in der Entwicklung  
 - 🚔 Fokus auf **FiveM Scripting** & Discord Bots
 - 🛠️ Arbeite mit **Lua**, **JavaScript**, **TypeScript**, **HTML**, **CSS**  
